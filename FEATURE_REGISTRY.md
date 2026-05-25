@@ -1,0 +1,20 @@
+# Pharmacy Delivery Operations Feature Registry
+
+- Patients
+- Appointments
+- Cases
+- Care Plans
+- Authorizations
+- Resources
+- Approvals
+- Exceptions
+- Compliance
+- Outcomes
+- Analytics
+- Reports
+- Documents
+- Notifications
+- Integrations
+- Profiles
+- AI Assistant
+- AI Tools
